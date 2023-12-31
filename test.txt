@@ -1,0 +1,13 @@
+http://localhost:4200/remoteEntry.js
+
+[
+    {
+        "name": "x-app-header"
+    },
+    {
+        "name": "x-app-card"
+    },
+    {
+        "name": "x-app-footer"
+    }
+]
